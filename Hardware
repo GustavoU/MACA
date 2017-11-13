@@ -1,0 +1,11 @@
+HARDWARE  
+
+Hardware utilizado para el desarrollo del prototipo
+
+- Arduino MEGA 2560
+- Modulo RTC (Reloj de tiempo real)
+- Modulo MicroSD
+- Modulo Bluetooth HC-06
+- Sensor de particulado Shinyei ppd42ns
+- Sensores de gases O3 (MICS 2611), NO2 (MICS 2710) y CO (MICS 5521)
+ 
